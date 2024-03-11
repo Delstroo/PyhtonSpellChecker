@@ -1,4 +1,5 @@
 # PyhtonSpellChecker
 
 ## How to install
- - The only command needed to have this run is `pip install nltk`
+ - install the project
+ - Once the project is opened run the following command `pip install nltk`
